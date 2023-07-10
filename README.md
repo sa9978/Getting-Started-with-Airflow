@@ -1,10 +1,12 @@
 # Getting-Started-with-Airflow
-The notebook provides an introduction to Apache Airflow, a popular workflow management platform. It covers the basic concepts of Airflow, including workflows, tasks, operators, and execution dates. It also demonstrates how to define DAGs (Directed Acyclic Graphs) and schedule them using cron syntax. The notebook explains various types of operators, such as BashOperator and PythonOperator, and how to define dependencies between tasks. Additionally, it showcases how to pass data between tasks using op_kwargs and XComs. Finally, the notebook provides examples of interacting with Microsoft SQL Server, including creating connections and performing SELECT and INSERT operations.
+The notebook provides an introduction to Apache Airflow, a popular workflow management platform. 
+It covers the basic concepts of Airflow, including workflows, tasks, operators, and execution dates. It also demonstrates how to define DAGs (Directed Acyclic Graphs) and schedule them using cron syntax. 
+The notebook explains various types of operators, such as BashOperator and PythonOperator, and how to define dependencies between tasks. Additionally, it showcases how to pass data between tasks using op_kwargs and XComs. Finally, the notebook provides examples of interacting with Microsoft SQL Server, including creating connections and performing SELECT and INSERT operations.
 
 ## Table of Contents
 
-- [Airflow Basic Concepts](#airflow-basic-concepts)
-  - [What is Airflow?](#what-is-airflow)
+- [Airflow Basic Concepts](https://github.com/sa9978/Getting-Started-with-Airflow/blob/main/airflow.ipynb#airflow-basic-concepts)
+  - [What is Airflow?](https://github.com/sa9978/Getting-Started-with-Airflow/blob/main/airflow.ipynb#what-is-airflow)
   - [What is a Workflow?](#what-is-a-workflow)
   - [Task](#task)
   - [Operator](#operator)
