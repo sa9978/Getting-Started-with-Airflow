@@ -20,7 +20,7 @@ The notebook explains various types of operators, such as BashOperator and Pytho
 - [Selecting or Inserting Data from SQL Server](#selecting-or-inserting-data-from-sql-server)
   - [Creating a Connection](#creating-a-connection)
   - [MsSqlHook](#mssqlhook)
-  - [SQL Server Operator](#sql-server-operator)
+  - [SQL Server Operator](https://github.com/sa9978/Getting-Started-with-Airflow/blob/main/airflow.ipynb#sql-server-operator)
 
 ## Sources
 
